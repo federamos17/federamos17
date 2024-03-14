@@ -16,8 +16,8 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-	<a href="mailto:ramos12fede@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="www.linkedin.com/in/ramosfederico/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ramosfederico/"><img src="https://img.shields.io/badge/-Federico%20Javier%20Ramos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+	<a href="mailto:ramos12fede@gmail.com"><img src="https://img.shields.io/badge/-ramos12fede@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h3 align="left">🛠 Language and tools</h3> 
