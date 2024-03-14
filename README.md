@@ -8,9 +8,9 @@
 
 <br>
 
-- Desarrollador Back-end autodidacta y apasionado
-- Actualmente cursando el ultimo año de la carrera de Analista en Sistemas de Computacion💻
-- Siempre mejorando y aprendiendo cosas nuevas📈
+- 🔧 Desarrollador Back-end autodidacta y apasionado
+- 💻 Actualmente cursando el ultimo año de la carrera de Analista en Sistemas de Computacion
+- 📈 Siempre mejorando y aprendiendo cosas nuevas
 
 <br><br>
 
